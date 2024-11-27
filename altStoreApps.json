@@ -22,10 +22,16 @@
         "https://raw.githubusercontent.com/newatlantisstudios/Channer/main/App%20Images/iOS/iOS-3.png"
       ],
       "whatsNew": "Version 1.12 includes:\n- Bug fixes and improvements",
+      "permissions": [
+        {
+          "type": "FaceID",
+          "usageDescription": "Used to access your favorites, history, downloads."
+        }
+      ],
       "versions": [
         {
           "version": "1.1",
-          "buildVersion": "1.1",
+          "buildVersion": "1.12",
           "date": "2024-11-27",
           "localizedDescription": "Channer v1.12",
           "downloadURL": "https://github.com/newatlantisstudios/Channer/releases/download/v1.12/Channer.ipa",
