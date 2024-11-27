@@ -9,7 +9,7 @@
   "apps": [
     {
       "name": "Channer",
-      "bundleIdentifier": "com.newatlantisstudios.channer",
+      "bundleIdentifier": "com.newatlantisstudios.channer.app",
       "developerName": "New Atlantis Studios",
       "subtitle": "Unofficial 4chan App",
       "localizedDescription": "Channer v1.1",
