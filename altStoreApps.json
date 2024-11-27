@@ -16,12 +16,12 @@
       "iconURL": "https://raw.githubusercontent.com/newatlantisstudios/Channer/main/Channer/Application/Assets.xcassets/AppIcon.appiconset/Icon-1024.png",
       "tintColor": "#77DD77",
       "category": "Social Network",
-      "screenshots": [
+      "screenshotURLs": [
         "https://raw.githubusercontent.com/newatlantisstudios/Channer/main/App%20Images/iOS/iOS-1.png",
         "https://raw.githubusercontent.com/newatlantisstudios/Channer/main/App%20Images/iOS/iOS-2.png",
         "https://raw.githubusercontent.com/newatlantisstudios/Channer/main/App%20Images/iOS/iOS-3.png"
       ],
-      "whatsNew": "Version 1.12 includes:\n- Bug fixes and improvements"
+      "whatsNew": "Version 1.12 includes:\n- Bug fixes and improvements",
       "versions": [
         {
           "version": "1.1",
