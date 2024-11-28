@@ -21,7 +21,7 @@
         "https://raw.githubusercontent.com/newatlantisstudios/Channer/main/App%20Images/iOS/iOS-2.png",
         "https://raw.githubusercontent.com/newatlantisstudios/Channer/main/App%20Images/iOS/iOS-3.png"
       ],
-      "whatsNew": "Version 1.12 includes:\n- Bug fixes and improvements",
+      "whatsNew": "Version 1.13 includes:\n- Added iCloud syncing for favorites and history",
       "permissions": [
         {
           "type": "FaceID",
@@ -33,8 +33,8 @@
           "version": "1.1",
           "buildVersion": "1.1",
           "date": "2024-11-27",
-          "localizedDescription": "Channer v1.12",
-          "downloadURL": "https://github.com/newatlantisstudios/Channer/releases/download/v1.12/Channer.ipa",
+          "localizedDescription": "Channer v1.13",
+          "downloadURL": "https://github.com/newatlantisstudios/Channer/releases/download/v1.13/Channer.ipa",
           "size": 29800000,
           "minOSVersion": "18.0"
         }
