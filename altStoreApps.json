@@ -39,6 +39,65 @@
           "minOSVersion": "18.0"
         }
       ]
+    },
+    {
+      "name": "LockWhisper",
+      "bundleIdentifier": "com.newatlantisstudios.lockwhisper.app",
+      "developerName": "New Atlantis Studios",
+      "subtitle": "OpenPGP Encryption for iOS",
+      "localizedDescription": "LockWhisper brings OpenPGP encryption to your iPhone with simple yet powerful PGP key management and secure messaging capabilities. Features include key pair generation, existing key import, message encryption/decryption, and secure key storage using iOS Keychain.",
+      "iconURL": "https://github.com/newatlantisstudios/LockWhisper/blob/main/LockWhisper/LockWhisper/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "tintColor": "#4A90E2",
+      "category": "Utilities",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/newatlantisstudios/LockWhisper/refs/heads/main/Screenshots/1.png",
+        "https://raw.githubusercontent.com/newatlantisstudios/LockWhisper/refs/heads/main/Screenshots/2.png",
+        "https://raw.githubusercontent.com/newatlantisstudios/LockWhisper/refs/heads/main/Screenshots/3.png"
+      ],
+      "permissions": [
+        {
+          "type": "LocalAuthentication",
+          "usageDescription": "Used to secure your encryption keys and messages"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.02",
+          "buildVersion": "2.02",
+          "date": "2025-01-18",
+          "localizedDescription": "LockWhisper v2.02",
+          "downloadURL": "https://drive.google.com/uc?export=download&id=1tXNOMVjMOjyyp0MqeEZcl6Vq1O5E_0wK",
+          "size": 3000000,
+          "minOSVersion": "18.0"
+        }
+      ]
+    },
+    {
+      "name": "PulseFeed",
+      "bundleIdentifier": "com.newatlantisstudios.pulsefeed.app",
+      "developerName": "New Atlantis Studios",
+      "subtitle": "Minimal RSS Reader",
+      "localizedDescription": "A clean, distraction-free RSS reader focusing on content. Features include easy feed management, OPML support, bookmarking system, and a native iOS/iPadOS experience following Apple design guidelines.",
+      "iconURL": "https://raw.githubusercontent.com/newatlantisstudios/PulseFeed/refs/heads/main/AppIcon.png",
+      "tintColor": "#FF6B6B",
+      "category": "News",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/newatlantisstudios/PulseFeed/refs/heads/main/Screenshots/1.png",
+        "https://raw.githubusercontent.com/newatlantisstudios/PulseFeed/refs/heads/main/Screenshots/2.png",
+        "https://raw.githubusercontent.com/newatlantisstudios/PulseFeed/refs/heads/main/Screenshots/3.png",
+        "https://raw.githubusercontent.com/newatlantisstudios/PulseFeed/refs/heads/main/Screenshots/4.png"
+      ],
+      "versions": [
+        {
+          "version": "1.02",
+          "buildVersion": "1.02",
+          "date": "2025-01-18",
+          "localizedDescription": "PulseFeed v1.02",
+          "downloadURL": "https://drive.google.com/uc?export=download&id=1Egx5_jUFb4h-47wT4WX8WgLXeAANGJsl",
+          "size": 6900000,
+          "minOSVersion": "18.0"
+        }
+      ]
     }
   ]
 }
