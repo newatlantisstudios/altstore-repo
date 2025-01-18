@@ -62,7 +62,7 @@
       ],
       "versions": [
         {
-          "version": "2.02",
+          "version": "1.0",
           "buildVersion": "2.02",
           "date": "2025-01-18",
           "localizedDescription": "LockWhisper v2.02",
@@ -89,7 +89,7 @@
       ],
       "versions": [
         {
-          "version": "1.02",
+          "version": "1.0",
           "buildVersion": "1.02",
           "date": "2025-01-18",
           "localizedDescription": "PulseFeed v1.02",
