@@ -34,7 +34,7 @@
           "buildVersion": "1.1",
           "date": "2024-12-13",
           "localizedDescription": "Channer v1.14",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=1DVk98kPB0YW-06g3-ruj4q6jruZ8juii",
+          "downloadURL": "https://github.com/newatlantisstudios/Channer/releases/download/V1.14/Channer.ipa",
           "size": 29800000,
           "minOSVersion": "18.0"
         }
@@ -66,7 +66,7 @@
           "buildVersion": "2.02",
           "date": "2025-01-18",
           "localizedDescription": "LockWhisper v2.02",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=1tXNOMVjMOjyyp0MqeEZcl6Vq1O5E_0wK",
+          "downloadURL": "https://github.com/newatlantisstudios/LockWhisper/releases/download/v2.02/LockWhisper.ipa",
           "size": 3000000,
           "minOSVersion": "18.0"
         }
@@ -93,7 +93,7 @@
           "buildVersion": "1.02",
           "date": "2025-01-18",
           "localizedDescription": "PulseFeed v1.02",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=1Egx5_jUFb4h-47wT4WX8WgLXeAANGJsl",
+          "downloadURL": "https://github.com/newatlantisstudios/PulseFeed/releases/download/v1.02/PulseFeed.ipa",
           "size": 6900000,
           "minOSVersion": "18.0"
         }
