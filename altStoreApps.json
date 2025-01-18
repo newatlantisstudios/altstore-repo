@@ -63,7 +63,7 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "2.02",
+          "buildVersion": "1.0",
           "date": "2025-01-18",
           "localizedDescription": "LockWhisper v2.02",
           "downloadURL": "https://github.com/newatlantisstudios/LockWhisper/releases/download/v2.02/LockWhisper.ipa",
@@ -90,7 +90,7 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "1.02",
+          "buildVersion": "1.0",
           "date": "2025-01-18",
           "localizedDescription": "PulseFeed v1.02",
           "downloadURL": "https://github.com/newatlantisstudios/PulseFeed/releases/download/v1.02/PulseFeed.ipa",
