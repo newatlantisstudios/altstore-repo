@@ -47,7 +47,7 @@
       "subtitle": "OpenPGP Encryption for iOS",
       "localizedDescription": "LockWhisper brings OpenPGP encryption to your iPhone with simple yet powerful PGP key management and secure messaging capabilities. Features include key pair generation, existing key import, message encryption/decryption, and secure key storage using iOS Keychain.",
       "iconURL": "https://github.com/newatlantisstudios/LockWhisper/blob/main/LockWhisper/LockWhisper/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "tintColor": "#4A90E2",
+      "tintColor": "#007AFF",
       "category": "Utilities",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/newatlantisstudios/LockWhisper/refs/heads/main/Screenshots/1.png",
@@ -79,7 +79,7 @@
       "subtitle": "Minimal RSS Reader",
       "localizedDescription": "A clean, distraction-free RSS reader focusing on content. Features include easy feed management, OPML support, bookmarking system, and a native iOS/iPadOS experience following Apple design guidelines.",
       "iconURL": "https://raw.githubusercontent.com/newatlantisstudios/PulseFeed/refs/heads/main/AppIcon.png",
-      "tintColor": "#FF6B6B",
+      "tintColor": "#333333",
       "category": "News",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/newatlantisstudios/PulseFeed/refs/heads/main/Screenshots/1.png",
